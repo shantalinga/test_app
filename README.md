@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-complete ruby on rails developer
+complete ruby on rails development
